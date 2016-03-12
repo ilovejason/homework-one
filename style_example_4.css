@@ -1,0 +1,46 @@
+﻿@charset "utf-8";
+body{
+	background-color: ffffff; color: #007580;
+	margin: 0px;
+}
+
+#titlename {
+	text-align: center ;
+	margin-left: 15% ;
+	margin-right: 15% ;
+}
+
+#titlename  h1{
+	text-align: center;
+	background-color: yellow;
+	padding: 0px 0px 4px 0px;
+	min-width: 780px;
+}
+
+#nav{
+	background-color:yellow ; 
+	width: 16% ;
+	min-width: 150px;
+	margin-top: 0px ;
+	margin-left: 15%;
+	float: left;
+	height: 311px;
+}
+
+#content{
+	background-color: yellow;
+	margin-right: 15% ;
+	padding-left: 0.5% ;
+	padding-right: 0.5% ;
+	width: 53% ;
+	min-width: 580px ;
+	float: right ;
+}
+
+#copyright{
+	background-color:yellow ;
+	margin-left: 15% ;
+	margin-right: 15% ;
+	padding-left: 0.5% ;
+	clear: both;
+}
